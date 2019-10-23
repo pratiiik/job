@@ -1,0 +1,1 @@
+in automate1.py prices of diiferent iphones has been fetched, along with their specifications

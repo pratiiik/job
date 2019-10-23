@@ -1,0 +1,3 @@
+amazon_scrapper.py is about checking the base price of a product and whenever it goes up and down , it sends a mail to notify
+It also fetches the current price of that product and prints along with sending notification.
+
